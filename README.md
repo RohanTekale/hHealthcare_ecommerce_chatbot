@@ -17,8 +17,6 @@ healthcare_ecommerce_chatbot/ │ ├── manage.py ├── chatbot/ │ ├
 - **Gradio**: A Python library for creating user-friendly interfaces for machine learning models.
 - **SQLite/PostgreSQL**: Database for storing product and order data.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 Contact
 For any inquiries, please reach out to:
